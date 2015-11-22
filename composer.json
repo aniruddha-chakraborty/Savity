@@ -1,0 +1,30 @@
+{
+  "name": "aniruddha-chakraborty/savity",
+  "description": "This is a clone project of Current Hedronium/Avity",
+  "type": "library",
+  "licence": "MIT",
+  "autoload": {
+          "psr-4": {
+              "Aniruddha-chakraborty\\Savity\\": " src/"
+          }
+  },
+  "support": {
+          "email": "project.anik@gmail.com",
+          "irc":  "irc://freenode.net/phpfig"
+  },
+  "authors": [
+        {
+          "name": "Aniruddha Chakraborty",
+          "email": "project.anik@gmail.com",
+          "homepage": "anichakraborty.me",
+          "role": "Developer",
+        },
+        {
+          "name": "Omran Jamal",
+          "email": "ojamal@gmail.com",
+          "homepage": "ojamal.me",
+          "role": "Developer"
+        }
+  ]
+
+}
